@@ -17,27 +17,6 @@ P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Pe
 Available at: <a href="http://www3.dsi.uminho.pt/pcortez/student.pdf">Web Link</a>
 <br><br>
 
-<html>
-<head>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-</head>
-<body>
 <h3>Explanation of dimensions present in the dataset</h3>
 <table>
   <tr>
@@ -186,6 +165,3 @@ tr:nth-child(even) {
     <td>student's guardian (nominal: 'mother', 'father' or 'other')</td>
   </tr> 
 </table>
-
-</body>
-</html>
